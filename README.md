@@ -11,8 +11,8 @@ CrewAI enables AI agents to work together in a collaborative and efficient manne
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
-   cd LLM-powered-SQLDataBase-Agent-with-langgraph
+   git clone git@github.com:Nithish-Chowdary/Email_Drafting_CrewAI-Langgraph.git
+   cd Email_Drafting_CrewAI-LangGraph
    ```
 2. Create a virtual environment:
    ```bash
