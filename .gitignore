@@ -1,0 +1,7 @@
+# Environment variable
+.env
+
+# credentials and tokens
+
+credentials.json
+token.json
